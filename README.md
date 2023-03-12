@@ -1,4 +1,4 @@
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/tvinnie/operationalisemlapi/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/tvinnie/operationalisemlapi/tree/main)
 
 ## Project Overview
 
