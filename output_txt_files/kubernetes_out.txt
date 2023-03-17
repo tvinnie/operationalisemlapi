@@ -4,3 +4,11 @@ NAME     READY   STATUS    RESTARTS   AGE
 repoml   1/1     Running   0          21m
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
+
+(.devops) kremlin@kremlin:~/action/devops/pro4/pro$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
