@@ -1,6 +1,6 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/tvinnie/operationalisemlapi/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/tvinnie/operationalisemlapi/tree/main)
 
-## Project Overview
+## Project 
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
