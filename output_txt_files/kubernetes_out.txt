@@ -1,4 +1,6 @@
+(.devops) kremlin@kremlin:~/action/devops/pro4/pro$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "repoml" already exists
 NAME     READY   STATUS    RESTARTS   AGE
-repoml   1/1     Running   0          16m
+repoml   1/1     Running   0          21m
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
